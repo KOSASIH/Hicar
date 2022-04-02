@@ -1,3 +1,3 @@
-# sveltejs-kit-template-default-ftxume
+# Hicar
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/sveltejs-kit-template-default-ftxume)
+Autonomous flying car system
